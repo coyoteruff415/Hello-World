@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(54, 134, 255);  
+    opacity: 0.8;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+h1 {
+    color: azure;
+    font-size: larger;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    color: blueviolet;
+    background-color: azure;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid darkblue;
+  border-radius: 5px;
+}
+
+h3 {
+    color: azure;
+    background-color: rgb(8, 8, 185);
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid darkblue;
+  border-radius: 5px;
+}
+
+h4 {
+    color: rgb(51, 51, 252);
+    background-color: azure;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid darkblue;
+  border-radius: 5px;
+}
+
+ul {
+    background-color: rgb(219, 202, 250);
+    border: 2px solid darkblue;
+  border-radius: 5px;
+}
+
+li {
+    color: rgb(51, 15, 252);
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: rgb(51, 51, 252);
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(219, 202, 250);
+    border: 2px solid darkblue;
+  border-radius: 5px;
+}
